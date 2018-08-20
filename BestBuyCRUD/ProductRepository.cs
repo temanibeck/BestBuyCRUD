@@ -9,5 +9,9 @@ namespace BestBuyCRUD
         {
             ConnectionString = connectionString;
         }
+
+        //Create
+        public void Insert()
+
     }
 }
